@@ -10,4 +10,6 @@ function greetMe() {
   alert("Welcome " + myName + " . We're glad to have you here. \n Enjoy your stay here. \n Bye Bye. Lols");
   // }
 
+  console.log("Testing")
+
 }
